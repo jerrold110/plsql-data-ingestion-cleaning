@@ -1,0 +1,1 @@
+\COPY staging FROM 'nifty_data.csv' WITH CSV HEADER;-- NULL AS '-';
